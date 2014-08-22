@@ -23,7 +23,7 @@
 #import "AFAppDotNetAPIClient.h"
 
 //static NSString * const AFAppDotNetAPIBaseURLString = @"https://api.app.net/";
-NSString * const AFAppDotNetAPIBaseURLString = @"http://projects.infiniumsoftech.com/corporate_construction/admin/";
+//NSString * const AFAppDotNetAPIBaseURLString =
 @implementation AFAppDotNetAPIClient
 
 + (instancetype)sharedClient {
